@@ -1,5 +1,8 @@
 # CS5963_FinalProject
 
+We have both contributed to this code in an equitable manner and agree that, to the best of our knowledge, it accurately represents our understanding for the assignment. Leona Craig Kelsey Fink CS5963
+
+
 Important information for running our project
 - We used Unity 2018.2.21f1 and does not work on newer version (like the ones in the library). We haven't been able to pull up our unity project in the library because of this and we were told no one could help us install other versions of unity (admin login required). Please keep this in mind when pulling up our project.
 - Our most recent push was from a mac, so the project might need re-targetting if pulled up on windows.
@@ -20,7 +23,7 @@ Deliverable check-list (pulled from formal project proposal)
 - We will include an unamused audience who is unpleasant to present in front of.
   - We have full support of this item. We have an audience who is very noisy and distruptive. The audience includes noisy children, coughing, fidgiting, un-silenced cell phones, awkward silences, and unenthusiastic applause. All of these events occur at least once during the speech and sound effects. The audience also visually fidgets just slightly to give them the appearance of a live audience. 
 - We will include blurry vision and tunnel vision
-  - We have partial support of this item. We have a tunnel vision effect that occurs twice during the speech but we do not have a blurry vision effect. [MORE NEEDED]
+  - We have partial support of this item. We have a tunnel vision effect that occurs twice during the speech but we do not have a blurry vision effect. For the purpose of scope we focused on the sound effects and tunnel vision as our most crucial pieces. Also, since tunnel vision gives a slight blurr feeling already, we decided it would be bonus to add the blurred vision and not a priority. We were working till the very last minute so extra features were not included.
 - We will have ringing in the ears and heartbeat sound effects
   - We have partial support of this item. We have the heart beat sound effect that occurs during the tunnel vision effect. We do not have ringing in the ears. We instead added microphone feedback twice during the speech as a annoying and tense sound for the speaker. 
 - We will have a pre recorded track of a speech that the user can listen to while on stage to simulate them speaking. 
