@@ -7,6 +7,7 @@ Important information for running our project
 - We used Unity 2018.2.21f1 and does not work on newer version (like the ones in the library). We haven't been able to pull up our unity project in the library because of this and we were told no one could help us install other versions of unity (admin login required). Please keep this in mind when pulling up our project.
 - Our most recent push was from a mac, so the project might need re-targetting if pulled up on windows.
 - We have developed for the Oculus and do not support Valve Index, so if you are running the executable on the Index systems, please use keyboard to instructions below to navigate the project.
+- Use the scene named "Auditorium"
 
 Important information for interacting with our project
 - Use "B" on keyboard or "A" on xbox controller to Restart the scene
